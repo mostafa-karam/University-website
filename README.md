@@ -26,7 +26,7 @@ This project provides an administrative dashboard and user portal for university
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/mosta/University-website.git
+   git clone https://github.com/mostafa-karam/University-website.git
    cd University-website
    ```
 
